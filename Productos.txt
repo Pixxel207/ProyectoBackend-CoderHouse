@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Iphone 11 pro",
+    "precio": 550,
+    "link": "https://i.blogs.es/187a45/iphone-11-pro-02/840_560.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Iphone 13 pro",
+    "precio": 890,
+    "link": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_GEO_09142021_inline.jpg.slideshow-large_2x.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Iphone 8 plus",
+    "precio": 1890,
+    "link": "https://www.apple.com/newsroom/images/product/iphone/geo/Apple_iPhone-13-Pro_iPhone-13-Pro-Max_GEO_09142021_inline.jpg.slideshow-large_2x.jpg"
+  }  
+]
